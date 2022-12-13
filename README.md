@@ -1,4 +1,4 @@
-# BigData Hadoop
+# BigData Hadoop/PySpark
 
 The repository with some reports on work that I did.
 
@@ -7,5 +7,12 @@ The information about usage of hadoop via docker can be found in the [Setting up
 
 ## *Matrix Multiplication*
 
-Example of used matrix: [Matrix A](https://github.com/MikLay/Hadoop/blob/main/HadoopLabs/input/A.txt) [Matrix B](https://github.com/MikLay/Hadoop/blob/main/HadoopLabs/input/B.txt). 
-Example of arguments to run with:  
+Example of used matrix: 
+- [Matrix A](https://github.com/MikLay/Hadoop/blob/main/HadoopLabs/input/A.txt) 
+- [Matrix B](https://github.com/MikLay/Hadoop/blob/main/HadoopLabs/input/B.txt). 
+
+Example of arguments to run with:  `./input/A.txt A-5-5 ./input/B.txt B-5-5 ./output` 
+
+## PySpark
+
+The [guide](https://sparkbyexamples.com/pyspark-tutorial/) that was used to write report about *PySpark*
